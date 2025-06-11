@@ -8,6 +8,8 @@ An intelligent AI marketing assistant that creates high-quality content—videos
 ## 🧠 Project Overview
 
 This project introduces an AI-powered agent capable of generating marketing content using six specialized tools. Users interact with the agent through Telegram (via voice or text), and the generated content (images, videos, blog posts, etc.) is stored in Google Drive and logged in Google Sheets. The core logic and automation are orchestrated using **n8n**.
+### 📌 Dashboard Overview
+![Dashboard Preview]()
 
 ---
 
